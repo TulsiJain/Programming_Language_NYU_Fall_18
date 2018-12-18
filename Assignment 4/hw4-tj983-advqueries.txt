@@ -1,0 +1,15 @@
+take broccoli.
+take apple.
+go to office.
+take envelope.
+drop envelope.
+take key.
+take teleporter.
+teleport attic.
+take doll.
+teleport kitchen.
+take crackers.
+teleport office.
+drop teleporter.
+go to kitchen.
+go to cellar.
